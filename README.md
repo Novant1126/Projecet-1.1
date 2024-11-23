@@ -45,8 +45,6 @@
                     </div>
                 </div>
             </div>
-
-            <!-- Komponen -->
             <div class="card shadow-lg mb-5">
                 <div class="card-header bg-info text-white">Audit Komponen</div>
                 <div class="card-body bg-white" id="komponenContainer">
